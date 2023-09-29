@@ -1,1 +1,1 @@
-# Jogo da velha simples (terminal)
+# Jogo da velha simples (tic-tac-toe) - Primeiro projeto 
