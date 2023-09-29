@@ -28,6 +28,7 @@ def main():
     jogador_atual = 'X'
 
     print("Bem-vindo ao Jogo da Velha!")
+    #jogo da velha chamado tambem de tic tac toe
 
     while True:
         imprimir_tabuleiro(tabuleiro)
